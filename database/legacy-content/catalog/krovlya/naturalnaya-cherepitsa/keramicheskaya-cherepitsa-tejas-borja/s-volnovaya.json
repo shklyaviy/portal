@@ -1,0 +1,50 @@
+{
+  "title": "S volnovaya — PortalFirma",
+  "description": "PortalFirma — кровля, фасады и материалы. Обновлённый интерфейс при сохранении URL-структуры.",
+  "h1": "S volnovaya",
+  "contentHtml": null,
+  "paragraphs": [
+    "Шаблон страницы в новой теме. Контент нужно перенести из Joomla в базу/файлы.",
+    "Фото, характеристики, цены и CTA-кнопки. URL сохранён."
+  ],
+  "products": null,
+  "relatedLinks": [
+    {
+      "text": "Krovlya",
+      "href": "/catalog/krovlya"
+    },
+    {
+      "text": "Naturalnaya cherepitsa",
+      "href": "/catalog/krovlya/naturalnaya-cherepitsa"
+    },
+    {
+      "text": "Keramicheskaya cherepitsa tejas borja",
+      "href": "/catalog/krovlya/naturalnaya-cherepitsa/keramicheskaya-cherepitsa-tejas-borja"
+    },
+    {
+      "text": "Калькулятор кровли",
+      "href": "/service/kalkulyator-rascheta-krovli.html"
+    },
+    {
+      "text": "Записаться на замер",
+      "href": "/service/zamer-krovli-fasada-ograzhdeniya.html"
+    },
+    {
+      "text": "Cherdachnye lestnitsy",
+      "href": "/catalog/cherdachnye-lestnitsy.html"
+    },
+    {
+      "text": "Cherdachnye lestnitsy fakro lms 60 120",
+      "href": "/catalog/cherdachnye-lestnitsy/cherdachnye-lestnitsy-fakro-lms-60-120.html"
+    },
+    {
+      "text": "Cherdachnye lestnitsy fakro lst 50 80",
+      "href": "/catalog/cherdachnye-lestnitsy/cherdachnye-lestnitsy-fakro-lst-50-80.html"
+    },
+    {
+      "text": "Cherdachnye lestnitsy fakro lwk 60 94",
+      "href": "/catalog/cherdachnye-lestnitsy/cherdachnye-lestnitsy-fakro-lwk-60-94.html"
+    }
+  ],
+  "_source": "catalog/krovlya/naturalnaya-cherepitsa/keramicheskaya-cherepitsa-tejas-borja/s-volnovaya.html"
+}

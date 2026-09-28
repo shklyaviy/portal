@@ -1,0 +1,21 @@
+{
+  "title": "Страница не найдена — PortalFirma",
+  "description": "PortalFirma — кровля, фасады и материалы. Обновлённый интерфейс при сохранении URL-структуры.",
+  "h1": "404",
+  "contentHtml": null,
+  "paragraphs": [
+    "Такой страницы нет. Перейдите на главную или воспользуйтесь меню."
+  ],
+  "products": null,
+  "relatedLinks": [
+    {
+      "text": "Калькулятор кровли",
+      "href": "/service/kalkulyator-rascheta-krovli.html"
+    },
+    {
+      "text": "Записаться на замер",
+      "href": "/service/zamer-krovli-fasada-ograzhdeniya.html"
+    }
+  ],
+  "_source": "404.html"
+}

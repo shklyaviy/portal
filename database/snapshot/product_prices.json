@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "price_type_id": 1,
+        "amount": 689,
+        "currency": "RUB",
+        "created_at": "2026-08-06 20:29:10",
+        "updated_at": "2026-08-06 20:29:10"
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "price_type_id": 2,
+        "amount": 640,
+        "currency": "RUB",
+        "created_at": "2026-08-06 20:29:10",
+        "updated_at": "2026-08-06 20:29:10"
+    },
+    {
+        "id": 3,
+        "product_id": 2,
+        "price_type_id": 1,
+        "amount": 612,
+        "currency": "RUB",
+        "created_at": "2026-08-06 20:29:10",
+        "updated_at": "2026-08-06 20:29:10"
+    },
+    {
+        "id": 4,
+        "product_id": 3,
+        "price_type_id": 1,
+        "amount": 545,
+        "currency": "RUB",
+        "created_at": "2026-08-06 20:29:10",
+        "updated_at": "2026-08-06 20:29:10"
+    },
+    {
+        "id": 5,
+        "product_id": 3,
+        "price_type_id": 2,
+        "amount": 510,
+        "currency": "RUB",
+        "created_at": "2026-08-06 20:29:10",
+        "updated_at": "2026-08-06 20:29:10"
+    }
+]

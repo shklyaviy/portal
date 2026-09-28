@@ -1,0 +1,21 @@
+{
+  "title": "Покрытия — PortalFirma",
+  "description": "PortalFirma — кровля, фасады и материалы. Обновлённый интерфейс при сохранении URL-структуры.",
+  "h1": "Покрытия",
+  "contentHtml": null,
+  "paragraphs": [
+    "Подборка страниц по покрытиям."
+  ],
+  "products": null,
+  "relatedLinks": [
+    {
+      "text": "Калькулятор кровли",
+      "href": "/service/kalkulyator-rascheta-krovli.html"
+    },
+    {
+      "text": "Записаться на замер",
+      "href": "/service/zamer-krovli-fasada-ograzhdeniya.html"
+    }
+  ],
+  "_source": "pokrytiya/index.html"
+}

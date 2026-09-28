@@ -1,0 +1,31 @@
+{
+  "title": "Волновая черепица",
+  "description": "Волновая керамическая черепица Tejas Borja: ТВ-10, TB-12, ТБ-4. Цены, наличие, доставка по Краснодарскому краю. Кровельный центр «Портал».",
+  "h1": "Волновая черепица",
+  "contentHtml": null,
+  "paragraphs": [
+    "Волновая черепица Tejas Borja — серия профилей для кровли с характерным рельефом волны. Ниже представлены позиции, доступные для заказа."
+  ],
+  "products": [
+    {
+      "name": "ТВ-10",
+      "href": "/catalog/volnovaya-cherepitsa/tv-10.html",
+      "price": "5 150 руб.",
+      "description": "Крупноформатная смешанная черепица TB-10 Tech"
+    },
+    {
+      "name": "TB-12",
+      "href": "/catalog/volnovaya-cherepitsa/tb-12.html",
+      "price": "5 071 руб.",
+      "description": "Комбинированная черепица классического форм-фактора"
+    },
+    {
+      "name": "ТБ-4",
+      "href": "/catalog/volnovaya-cherepitsa/tb-4.html",
+      "price": "6 235 руб.",
+      "description": "Эксклюзивная конструкция смешанной волновой черепицы"
+    }
+  ],
+  "relatedLinks": [],
+  "_source": "html-export/catalog/volnovaya-cherepitsa.html"
+}
